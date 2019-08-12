@@ -46,6 +46,182 @@
             "isModelView": false
         },
         {
+            "code": "HANX-WS3",
+            "department": "F",
+            "productName": "The Crop Tee 874",
+            "brandName": "Hanes x Karla",
+            "price": "$30",
+            "retailPrice": "$30",
+            "isOneSize": false,
+            "isDiscount": false,
+            "isFavorite": false,
+            "isWishList": false,
+            "isNewArrival": false,
+            "isBestSeller": true,
+            "isPreOrder": false,
+            "isWeddingShop": false,
+            "isBeautyProduct": false,
+            "isOOS": false,
+            "color": "White",
+            "imageURLs": [
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V2.jpg"
+            ],
+            "mobileImageURLs": [
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V2.jpg"
+            ],
+            "pdpURL": "/r/ipadApp/ProductDetails.jsp?code=HANX-WS3&d=Womens",
+            "colorSwatch": [
+                {
+                    "code": "HANX-WS26",
+                    "imageURL": "https://is4.revolveassets.com/images/p/s2/HANX-WS26_V2.jpg",
+                    "color": "Black",
+                    "isSelected": false
+                }
+            ],
+            "isFinalSale": false,
+            "readyDate": "Jan 12, 2018 12:00:00 AM",
+            "firstReadyDate": "Jan 12, 2018 12:00:00 AM",
+            "isCollection": false,
+            "firstNonEmptyCategory": "Tops",
+            "isSizePreSelect": false,
+            "hoverView": false,
+            "isModelView": false
+        },
+        {
+            "code": "HANX-WS3",
+            "department": "F",
+            "productName": "The Crop Tee 943",
+            "brandName": "Hanes x Karla",
+            "price": "$30",
+            "retailPrice": "$30",
+            "isOneSize": false,
+            "isDiscount": false,
+            "isFavorite": false,
+            "isWishList": false,
+            "isNewArrival": false,
+            "isBestSeller": true,
+            "isPreOrder": false,
+            "isWeddingShop": false,
+            "isBeautyProduct": false,
+            "isOOS": false,
+            "color": "White",
+            "imageURLs": [
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V2.jpg"
+            ],
+            "mobileImageURLs": [
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V2.jpg"
+            ],
+            "pdpURL": "/r/ipadApp/ProductDetails.jsp?code=HANX-WS3&d=Womens",
+            "colorSwatch": [
+                {
+                    "code": "HANX-WS26",
+                    "imageURL": "https://is4.revolveassets.com/images/p/s2/HANX-WS26_V2.jpg",
+                    "color": "Black",
+                    "isSelected": false
+                }
+            ],
+            "isFinalSale": false,
+            "readyDate": "Jan 12, 2018 12:00:00 AM",
+            "firstReadyDate": "Jan 12, 2018 12:00:00 AM",
+            "isCollection": false,
+            "firstNonEmptyCategory": "Tops",
+            "isSizePreSelect": false,
+            "hoverView": false,
+            "isModelView": false
+        },
+        {
+            "code": "HANX-WS3",
+            "department": "F",
+            "productName": "The Crop Tee 443",
+            "brandName": "Hanes x Karla",
+            "price": "$30",
+            "retailPrice": "$30",
+            "isOneSize": false,
+            "isDiscount": false,
+            "isFavorite": false,
+            "isWishList": false,
+            "isNewArrival": false,
+            "isBestSeller": true,
+            "isPreOrder": false,
+            "isWeddingShop": false,
+            "isBeautyProduct": false,
+            "isOOS": false,
+            "color": "White",
+            "imageURLs": [
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V2.jpg"
+            ],
+            "mobileImageURLs": [
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V2.jpg"
+            ],
+            "pdpURL": "/r/ipadApp/ProductDetails.jsp?code=HANX-WS3&d=Womens",
+            "colorSwatch": [
+                {
+                    "code": "HANX-WS26",
+                    "imageURL": "https://is4.revolveassets.com/images/p/s2/HANX-WS26_V2.jpg",
+                    "color": "Black",
+                    "isSelected": false
+                }
+            ],
+            "isFinalSale": false,
+            "readyDate": "Jan 12, 2018 12:00:00 AM",
+            "firstReadyDate": "Jan 12, 2018 12:00:00 AM",
+            "isCollection": false,
+            "firstNonEmptyCategory": "Tops",
+            "isSizePreSelect": false,
+            "hoverView": false,
+            "isModelView": false
+        },
+        {
+            "code": "HANX-WS3",
+            "department": "F",
+            "productName": "The Crop Tee 412",
+            "brandName": "Hanes x Karla",
+            "price": "$30",
+            "retailPrice": "$30",
+            "isOneSize": false,
+            "isDiscount": false,
+            "isFavorite": false,
+            "isWishList": false,
+            "isNewArrival": false,
+            "isBestSeller": true,
+            "isPreOrder": false,
+            "isWeddingShop": false,
+            "isBeautyProduct": false,
+            "isOOS": false,
+            "color": "White",
+            "imageURLs": [
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/n/d/HANX-WS3_V2.jpg"
+            ],
+            "mobileImageURLs": [
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V1.jpg",
+                "https://is4.revolveassets.com/images/p4/ip2/pl2/HANX-WS3_V2.jpg"
+            ],
+            "pdpURL": "/r/ipadApp/ProductDetails.jsp?code=HANX-WS3&d=Womens",
+            "colorSwatch": [
+                {
+                    "code": "HANX-WS26",
+                    "imageURL": "https://is4.revolveassets.com/images/p/s2/HANX-WS26_V2.jpg",
+                    "color": "Black",
+                    "isSelected": false
+                }
+            ],
+            "isFinalSale": false,
+            "readyDate": "Jan 12, 2018 12:00:00 AM",
+            "firstReadyDate": "Jan 12, 2018 12:00:00 AM",
+            "isCollection": false,
+            "firstNonEmptyCategory": "Tops",
+            "isSizePreSelect": false,
+            "hoverView": false,
+            "isModelView": false
+        },
+        {
             "code": "AGOL-WF17",
             "department": "F",
             "productName": "Jaden Short",
